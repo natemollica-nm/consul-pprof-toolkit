@@ -1,2 +1,8 @@
+# build artefacts
+*.tar.gz
+# editor / OS cruft
 .DS_Store
-.idea
+.idea/
+.vscode/
+.venv/
+__pycache__/
